@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ifengkou/ifengkou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on user-event trino,flink
+- 🌱 I’m currently learning iceberg,hudi
 
-Here are some ideas to get you started:
+<details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<summary>Gtihub 统计信息</summary>
+
+[![](https://github-readme-stats.vercel.app/api?username=ifengkou&show_icons=true&theme=tokyonight)](https://github.com/ifengkou)
+
+</details>
+
+<details>
+<summary>联系我</summary>
+
+<!-- ### 联系我 -->
+
+- 邮箱：ifengkou@hotmail.com
+
+</details>
