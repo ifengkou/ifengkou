@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on user-event trino,flink
+- 🔭 I’m currently working on uba,trino,flink,java-oidc
 - 🌱 I’m currently learning iceberg,hudi
 
 <details>
