@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on uba,trino,flink,java-oidc
-- 🌱 I’m currently learning iceberg,hudi
+- 🔭 I’m currently working on olap database
+
 
 <details>
 
